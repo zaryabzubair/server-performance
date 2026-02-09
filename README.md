@@ -32,5 +32,6 @@ Run as root (recommended for full stats)
 ```bash
 sudo ./server-stats.sh
 ```
+This project is part of [roadmap.sh](https://roadmap.sh/projects/server-stats) DevOps projects.
 
 
